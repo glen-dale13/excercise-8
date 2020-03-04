@@ -33,7 +33,7 @@
         <article>
           <p>The software department of CatComputing.com is managed by Quorra's Software Shack. We can supply all your software needs, from programming languages and operating systems to applications and games.</p>
           <aside>
-            <img src="vintage-software.jpg" />
+            <img src="vintage-software.jpg"/>
             <p>Only the finest software! <em>(Photo by Greg Smith, CC BY-NC 2.0)</em></p>
           </aside>
         </article>
